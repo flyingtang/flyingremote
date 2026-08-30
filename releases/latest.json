@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "notes": "飞遥 1.0.0 — 空调遥控：11 品牌码库、博联网关、红外学习、自动更新。",
-  "pub_date": "2026-08-29T14:05:13.875Z",
+  "pub_date": "2026-08-30T05:30:02.455Z",
   "platforms": {
     "android-arm64": {
       "url": "https://gitee.com/flyingtang/flyingremote/releases/download/v1.0.0/FlyingRemote_1.0.0_arm64.apk",
